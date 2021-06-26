@@ -17,9 +17,9 @@ My name is Celestine Kariuki, or Celestino for short.
 - 💬 Ask me about blockchain/crypto, Rust, Go Lang, Africa, free trade & economics, Algorand, the potential of blockchain/crypto in Africa
 - 📫 How to reach me:
 
-                  * email me at kcelestinomaria127@gmail.com 
+                  * email me at <kcelestinomaria127@gmail.com>
                   * Ping me on Discord at celestino#1366
-                  * Message me on [Linkedin](https://www.linkedin.com/in/celestine-kariuki-b55ab6177/)
+                  * Message me on Linkedin:<https://www.linkedin.com/in/celestine-kariuki-b55ab6177/>
                  
 - 😄 Pronouns: I am a gentleman, lol
 - ⚡ Fun fact: ???
