@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kcelestinomaria/kcelestinomaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kcelestinomaria/kcelestinomaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Celestine Kariuki, or Celestino for short.
 
@@ -16,4 +16,4 @@ My name is Celestine Kariuki, or Celestino for short.
 - 📫 How to reach me: email me at kcelestinomaria127@gmail.com 
 - 😄 Pronouns: I am a gentleman, lol
 - ⚡ Fun fact: ???
--->
+
