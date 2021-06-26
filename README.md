@@ -7,7 +7,6 @@ My name is Celestine Kariuki, or Celestino for short.
 
 - 🔭 I’m currently working on several decentralization/crypto/blockchain projects at Malibia Org, 
 - namely:
-
           * Exitor(Business Exiting Platform)
           * Harambee(Substrate Blockchain for DeFi)
           * T-box/Tenderbox(product-sourcing and tendering platform for merchants and small businesses)
@@ -17,7 +16,6 @@ My name is Celestine Kariuki, or Celestino for short.
 - 🤔 I’m looking for help with one of my projects, i.e Harambee, which is a public, permissionless and open-source DeFi Blockchain for Africa. If you are a a Substrate/Polkadot Megamind or are willing to just want to work on something hugely impactful and learn Substrate/Rust, please hit me up
 - 💬 Ask me about blockchain/crypto, Rust, Go Lang, Africa, free trade & economics, Algorand, the potential of blockchain/crypto in Africa
 - 📫 How to reach me:
-
                   * email me at kcelestinomaria127@gmail.com 
                   * Ping me on Discord at ```celestino#1366```
                  
