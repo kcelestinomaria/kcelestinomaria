@@ -18,8 +18,8 @@ My name is Celestine Kariuki, or Celestino for short.
 - 📫 How to reach me:
 
                   * email me at kcelestinomaria127@gmail.com 
-                  * Ping me on Discord at ```celestino#1366```
-                  * Message me on ![Linkedin](https://www.linkedin.com/in/celestine-kariuki-b55ab6177/)!
+                  * Ping me on Discord at celestino#1366
+                  * Message me on [Linkedin](https://www.linkedin.com/in/celestine-kariuki-b55ab6177/)
                  
 - 😄 Pronouns: I am a gentleman, lol
 - ⚡ Fun fact: ???
