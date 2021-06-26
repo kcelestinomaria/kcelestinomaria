@@ -5,8 +5,7 @@
 
 My name is Celestine Kariuki, or Celestino for short.
 
-- 🔭 I’m currently working on several decentralization/crypto/blockchain projects at Malibia Org, 
-- namely:
+- 🔭 I’m currently working on several decentralization/crypto/blockchain projects at Malibia Org, namely:
 
           * Exitor(Business Exiting Platform)
           * Harambee(Substrate Blockchain for DeFi)
