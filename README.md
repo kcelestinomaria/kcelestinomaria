@@ -22,5 +22,5 @@ My name is Celestine Kariuki, or Celestino for short.
                   * Message me on Linkedin:<https://www.linkedin.com/in/celestine-kariuki-b55ab6177/>
                  
 - 😄 Pronouns: I am a gentleman, lol
-- ⚡ Fun fact: ???
+- ⚡ Fun fact: I am also interested in Quantum Computing, worked on some problems and did a full year course lectured by MIT/Oxford profs, and IBM engineers. Will also be uploading my work soon. Also getting Quantum Computing certified by IBM before the year ends😉
 
