@@ -65,7 +65,7 @@ My journey spans building scalable applications, exploring quantum computing, an
  
 - **Newsletter:** [The Token Tribe](https://www.linkedin.com/in/celestine-kariuki-b55ab6177/) — Insights into tokenization and fintech trends.  
 - **LinkedIn:** [Celestine](https://www.linkedin.com)  
-- **X(formerly Twitter):** [@Celestine](https://x.com/@_celestino127)  
+- **X(formerly Twitter):** [@Celestino](https://x.com/@_celestino127)  
 
 ---
 
